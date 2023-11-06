@@ -1,14 +1,32 @@
 .TodoList {
-    background-color: #f0f0f0;
     padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
     max-width: 400px;
-    margin: 10% auto;
+    margin: 0px auto;
+    background-color: rgba(78, 162, 181, 0.478) ;
   }
   
-  .TodoList h1 {
-    font-size: 1.5rem;
+  .TodoList2 {
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #71D7B6;
+  }
+  #pink{
+    background-color: #FB8999;
+    margin: 0px;
+    padding: 20px;
+    max-width: 400px;
+    margin:  auto;
+
+  }
+
+  #frag{
+    border-radius: 5px;
+    border: 1.5px solid #fe546b;
+    padding: 0px;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.434);
+    max-width: 400px;
+    margin: 5% auto;
+   
   }
   
   .task-input {
@@ -21,7 +39,7 @@
   }
   
   .task-input button {
-    background-color: #007bff;
+    background-color: #ff3363;
     color: white;
     border: none;
     padding: 5px 10px;
@@ -35,13 +53,20 @@
   
   li {
     margin: 10px 0;
+    width: 100%;
+    max-width: 100% !important;
   }
   
   li button {
-    background-color: #ff3333;
+   
     color: white;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
   }
   
+  .pics{
+    width: 25px;
+    height: 24px;
+   
+  }
