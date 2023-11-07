@@ -5,10 +5,10 @@
 </div>
 
 <
-<!-- Introduction -->
-## 📌 Introduction
+## 📌 Overview
 
-Welcome to the React To-Do List, a sleek and interactive task management application designed with React. This elegant to-do list app allows you to effortlessly organize your tasks and stay productive. Whether you're managing daily chores or planning a project, this app has you covered.
+The React To-Do List is a user-friendly web application created with React. It offers an elegant and straightforward interface for managing your tasks effectively. You can easily add, edit, and remove tasks, all in one place. 🚀
+
 
 <!-- Live Demo -->
 ## 🌐 Live Demo
