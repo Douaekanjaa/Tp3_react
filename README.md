@@ -4,7 +4,6 @@
   <h1>React To-Do List</h1>
 </div>
 
-<
 ## 📌 Overview
 
 The React To-Do List is a user-friendly web application created with React. It offers an elegant and straightforward interface for managing your tasks effectively. You can easily add, edit, and remove tasks, all in one place. 🚀
@@ -15,8 +14,8 @@ The React To-Do List is a user-friendly web application created with React. It o
 
 Explore a live demonstration of the application:
 
-[![Live Demo]("%PUBLIC_URL%/to-do-list.png")](https://douaekanjaa.github.io/Tp3_react/)
- 
+[![Live Demo](./public/to-do-list.png)](https://douaekanjaa.github.io/Tp3_react/)
+
 <!-- Features -->
 ## ✨ Key Features
 
