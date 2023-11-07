@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Tp3_react/static/css/main.91264833.css",
-    "main.js": "/Tp3_react/static/js/main.c95a1dac.js",
+    "main.css": "/Tp3_react/static/css/main.f23ed253.css",
+    "main.js": "/Tp3_react/static/js/main.2fd6c059.js",
     "static/js/787.419af693.chunk.js": "/Tp3_react/static/js/787.419af693.chunk.js",
+    "static/media/edit.png": "/Tp3_react/static/media/edit.0f46e2728eb984e21ce8.png",
     "index.html": "/Tp3_react/index.html",
-    "main.91264833.css.map": "/Tp3_react/static/css/main.91264833.css.map",
-    "main.c95a1dac.js.map": "/Tp3_react/static/js/main.c95a1dac.js.map",
+    "main.f23ed253.css.map": "/Tp3_react/static/css/main.f23ed253.css.map",
+    "main.2fd6c059.js.map": "/Tp3_react/static/js/main.2fd6c059.js.map",
     "787.419af693.chunk.js.map": "/Tp3_react/static/js/787.419af693.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91264833.css",
-    "static/js/main.c95a1dac.js"
+    "static/css/main.f23ed253.css",
+    "static/js/main.2fd6c059.js"
   ]
 }
