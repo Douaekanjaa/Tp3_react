@@ -12,10 +12,13 @@ The React To-Do List is a user-friendly web application created with React. It o
 <!-- Live Demo -->
 ## 🌐 Live Demo
 
-Explore a live demonstration of the application:
-<img src="./public/to-do-list.png" alt="Your App Logo" width="30">
+Explore a live demonstration of the application: <br>
+<a href=[![Live Demo]](https://douaekanjaa.github.io/Tp3_react/)>
+  <img src="./public/to-do-list.png" alt="Your App Logo" width="30">
+</a>
 
-[![Live Demo]](https://douaekanjaa.github.io/Tp3_react/)
+
+
 
 <!-- Features -->
 ## ✨ Key Features
