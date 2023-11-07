@@ -1,6 +1,6 @@
 <!-- Title -->
 <div align="center">
-  <img src="%PUBLIC_URL%/to-do-list.png" alt="Your App Logo" width="150">
+  <img src="./public/to-do-list.png" alt="Your App Logo" width="150">
   <h1>📝 React To-Do List</h1>
 </div>
 
