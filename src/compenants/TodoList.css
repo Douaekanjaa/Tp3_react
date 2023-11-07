@@ -82,7 +82,7 @@
     margin-top: 7px;
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 200px) {
     #frag {
       margin: 20px; 
     }
