@@ -82,13 +82,13 @@
     margin-top: 7px;
   }
 
-  @media (max-width: 200px) {
+  @media (max-width: 768px) {
     #frag {
-      margin: 20px; 
+      margin: 200px; 
     }
   
     .TodoList {
-      padding: 200px;
+      padding: 20px;
       max-width: 80%;
       margin: 0px auto;
       background-color: rgba(78, 162, 181, 0.478) ;
