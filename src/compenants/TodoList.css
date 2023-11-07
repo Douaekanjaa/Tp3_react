@@ -36,6 +36,7 @@
   .task-input input {
     padding: 5px;
     margin-right: 10px;
+    outline: none;
   }
   
   .task-input button {
@@ -68,5 +69,15 @@
   .pics{
     width: 25px;
     height: 24px;
-   
+  }
+
+  #save{
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+  }
+
+  hr{
+    border: 0.5px solid rgba(0, 0, 0, 0.961);
+    margin-top: 7px;
   }
